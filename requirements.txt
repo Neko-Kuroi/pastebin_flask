@@ -1,0 +1,3 @@
+Flask
+shortuuid
+Pygments==2.17.2
